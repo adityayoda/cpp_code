@@ -4,7 +4,11 @@ using namespace std;
 
 int main()
 {
-    A[10]
-
+  int j;
+  cin>>j;
+         for(int i=1; i<=10; i++)
+           {
+               cout<<j*i<<" ";
+           }
     return 0;
 }
